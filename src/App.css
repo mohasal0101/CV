@@ -1,0 +1,195 @@
+
+
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.align {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.h1,p{
+  font-family: Rockwell,"Times New Roman",serif;
+
+}
+
+.cv-left-item-text{
+  font-family: Rockwell,"Times New Roman",serif;
+  font-size: 15px;
+  color: #000000;
+  text-align: left;
+  margin-left: 45px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+
+.course-details-cv{
+  font-family: Rockwell,"Times New Roman",serif;
+  font-size: 15px;
+  color: #000000;
+  text-align: left;
+  margin-left: 45px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+
+
+.cv-left-item-header{
+  font-size: 1.5em;
+  font-weight: bold;
+  margin-bottom: 0.5em;
+  margin-top: 0.5em;
+}
+
+.profile-img {
+  border-radius: 30px;
+  align-items: center;
+  margin-top: 20px;
+  width: 20%;
+  border: 10px solid transparent;
+  padding: 15px;
+  border-image: url(https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_640.png) 30 stretch;
+}
+
+.name-header{
+  font-size: 30px;
+  font-weight: bold;
+  margin-top: 20px;
+  color:#595b5e
+}
+
+.job-title{
+  font-size: 22px;
+  font-weight: bold;
+  margin-top: 20px;
+  color:#595b5e
+}
+
+
+.cv-left{
+  float: left;
+  width: 30%;
+  padding: 10px;
+  margin-left: 10px;
+}
+
+.location-img{
+  width: 30px;
+  height: 30px;
+  margin-right: 20px;
+
+}
+
+.img-phone{
+  width: 25px;
+  height: 30px;
+  margin-right: 20px;
+
+}
+
+.email-img{
+  width: 30px;
+  height: 30px;
+  margin-right: 20px;
+}
+
+.facebook-img{
+  width: 20px;
+  height: 20px;
+  margin-right: 27px;
+}
+
+.linkedin-img{
+  width: 20px;
+  height: 20px;
+  margin-right: 27px;
+}
+
+
+
+
+.img-text{
+  margin-bottom: 30px;
+}
+
+.span{
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 20px;
+  font-weight: bold;
+}
+
+
+
+.cv-mid{
+  display:flex; 
+  flex-direction: column;
+  margin-left: 34%;  
+   
+}
+
+
+.cv-mid-header{
+  font-size: 1.5em;
+  font-weight: bold;
+  margin-bottom: 0.5em;
+  margin-top: 0.5em;
+  margin-left: 20%;   
+
+}
+.cv-mid-header-1{
+  font-size: 1.5em;
+  font-weight: bold;
+  margin-bottom: 0.5em;
+  margin-top: 0.5em;
+  margin-left: 21%;   
+
+}
+
+.cv-mid-header-2{
+  font-size: 1.5em;
+  font-weight: bold;
+  margin-bottom: 0.5em;
+  margin-top: 5em;
+  margin-left: 18%;   
+
+}
+
+.cv-mid-item{
+  font-size: 1em;
+  font-weight: bold;
+  margin-bottom: 17%;
+  margin-top: 0.5em;
+  margin-left: 210px;   
+}
+
+
